@@ -65,6 +65,7 @@
 			);
 			name = AITests;
 			packageProductDependencies = (
+				AA1E5EE95C7DF5DB971A467F /* DesignSystem */,
 			);
 			productName = AITests;
 			productReference = 5D0CFFD12FAE9D3000AF480B /* AITests.app */;
@@ -95,6 +96,9 @@
 			mainGroup = 5D0CFFC82FAE9D3000AF480B;
 			minimizedProjectReferenceProxies = 1;
 			preferredProjectObjectVersion = 77;
+			packageReferences = (
+				CDF28AF4CADB19218F45293F /* XCLocalSwiftPackageReference "../DesignSystem" */,
+			);
 			productRefGroup = 5D0CFFD22FAE9D3000AF480B /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
@@ -332,6 +336,21 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
+
+/* Begin XCLocalSwiftPackageReference section */
+		CDF28AF4CADB19218F45293F /* DesignSystem */ = {
+			isa = XCLocalSwiftPackageReference;
+			relativePath = ../DesignSystem;
+		};
+/* End XCLocalSwiftPackageReference section */
+
+/* Begin XCSwiftPackageProductDependency section */
+		AA1E5EE95C7DF5DB971A467F /* DesignSystem */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = CDF28AF4CADB19218F45293F /* DesignSystem */;
+			productName = DesignSystem;
+		};
+/* End XCSwiftPackageProductDependency section */
 	};
 	rootObject = 5D0CFFC92FAE9D3000AF480B /* Project object */;
 }
