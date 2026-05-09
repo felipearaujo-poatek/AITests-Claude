@@ -34,6 +34,7 @@ private extension UIColor {
 
 public extension Color {
 
+    // Public by inheritance from the enclosing `public extension Color`.
     enum DS {
 
         // MARK: - Background

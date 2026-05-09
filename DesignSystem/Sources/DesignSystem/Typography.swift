@@ -3,6 +3,7 @@ import UIKit
 
 // MARK: - DSTypography
 
+@MainActor
 public enum DSTypography {
 
     // MARK: - Display
