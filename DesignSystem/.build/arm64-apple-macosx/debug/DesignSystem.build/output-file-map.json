@@ -1,0 +1,33 @@
+{
+  "": {
+    "swift-dependencies": "/Users/feliperezende/Documents/PersonalProjects/AITests+Claude/DesignSystem/.build/arm64-apple-macosx/debug/DesignSystem.build/master.swiftdeps"
+  },
+  "/Users/feliperezende/Documents/PersonalProjects/AITests+Claude/DesignSystem/Sources/DesignSystem/Colors.swift": {
+    "dependencies": "/Users/feliperezende/Documents/PersonalProjects/AITests+Claude/DesignSystem/.build/arm64-apple-macosx/debug/DesignSystem.build/Colors.d",
+    "object": "/Users/feliperezende/Documents/PersonalProjects/AITests+Claude/DesignSystem/.build/arm64-apple-macosx/debug/DesignSystem.build/Colors.swift.o",
+    "swiftmodule": "/Users/feliperezende/Documents/PersonalProjects/AITests+Claude/DesignSystem/.build/arm64-apple-macosx/debug/DesignSystem.build/Colors~partial.swiftmodule",
+    "swift-dependencies": "/Users/feliperezende/Documents/PersonalProjects/AITests+Claude/DesignSystem/.build/arm64-apple-macosx/debug/DesignSystem.build/Colors.swiftdeps",
+    "diagnostics": "/Users/feliperezende/Documents/PersonalProjects/AITests+Claude/DesignSystem/.build/arm64-apple-macosx/debug/DesignSystem.build/Colors.dia"
+  },
+  "/Users/feliperezende/Documents/PersonalProjects/AITests+Claude/DesignSystem/Sources/DesignSystem/Radius.swift": {
+    "dependencies": "/Users/feliperezende/Documents/PersonalProjects/AITests+Claude/DesignSystem/.build/arm64-apple-macosx/debug/DesignSystem.build/Radius.d",
+    "object": "/Users/feliperezende/Documents/PersonalProjects/AITests+Claude/DesignSystem/.build/arm64-apple-macosx/debug/DesignSystem.build/Radius.swift.o",
+    "swiftmodule": "/Users/feliperezende/Documents/PersonalProjects/AITests+Claude/DesignSystem/.build/arm64-apple-macosx/debug/DesignSystem.build/Radius~partial.swiftmodule",
+    "swift-dependencies": "/Users/feliperezende/Documents/PersonalProjects/AITests+Claude/DesignSystem/.build/arm64-apple-macosx/debug/DesignSystem.build/Radius.swiftdeps",
+    "diagnostics": "/Users/feliperezende/Documents/PersonalProjects/AITests+Claude/DesignSystem/.build/arm64-apple-macosx/debug/DesignSystem.build/Radius.dia"
+  },
+  "/Users/feliperezende/Documents/PersonalProjects/AITests+Claude/DesignSystem/Sources/DesignSystem/Spacing.swift": {
+    "dependencies": "/Users/feliperezende/Documents/PersonalProjects/AITests+Claude/DesignSystem/.build/arm64-apple-macosx/debug/DesignSystem.build/Spacing.d",
+    "object": "/Users/feliperezende/Documents/PersonalProjects/AITests+Claude/DesignSystem/.build/arm64-apple-macosx/debug/DesignSystem.build/Spacing.swift.o",
+    "swiftmodule": "/Users/feliperezende/Documents/PersonalProjects/AITests+Claude/DesignSystem/.build/arm64-apple-macosx/debug/DesignSystem.build/Spacing~partial.swiftmodule",
+    "swift-dependencies": "/Users/feliperezende/Documents/PersonalProjects/AITests+Claude/DesignSystem/.build/arm64-apple-macosx/debug/DesignSystem.build/Spacing.swiftdeps",
+    "diagnostics": "/Users/feliperezende/Documents/PersonalProjects/AITests+Claude/DesignSystem/.build/arm64-apple-macosx/debug/DesignSystem.build/Spacing.dia"
+  },
+  "/Users/feliperezende/Documents/PersonalProjects/AITests+Claude/DesignSystem/Sources/DesignSystem/Typography.swift": {
+    "dependencies": "/Users/feliperezende/Documents/PersonalProjects/AITests+Claude/DesignSystem/.build/arm64-apple-macosx/debug/DesignSystem.build/Typography.d",
+    "object": "/Users/feliperezende/Documents/PersonalProjects/AITests+Claude/DesignSystem/.build/arm64-apple-macosx/debug/DesignSystem.build/Typography.swift.o",
+    "swiftmodule": "/Users/feliperezende/Documents/PersonalProjects/AITests+Claude/DesignSystem/.build/arm64-apple-macosx/debug/DesignSystem.build/Typography~partial.swiftmodule",
+    "swift-dependencies": "/Users/feliperezende/Documents/PersonalProjects/AITests+Claude/DesignSystem/.build/arm64-apple-macosx/debug/DesignSystem.build/Typography.swiftdeps",
+    "diagnostics": "/Users/feliperezende/Documents/PersonalProjects/AITests+Claude/DesignSystem/.build/arm64-apple-macosx/debug/DesignSystem.build/Typography.dia"
+  }
+}
